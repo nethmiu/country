@@ -1,0 +1,46 @@
+body {
+  min-height: 100vh;
+  background-color: #f8f9fa;
+}
+
+.dark-mode {
+  background-color: #212529;
+  color: #f8f9fa;
+}
+
+.dark-mode .card {
+  background-color: #000305;
+  color: #f8f9fa;
+}
+
+.dark-mode .list-group-item {
+  background-color: #00050a;
+  color: #f8f9fa;
+  border-color: #00060c;
+}
+
+.dark-mode .form-control, 
+.dark-mode .form-select {
+  background-color: #495057;
+  color: #f8f9fa;
+  border-color: #6c757d;
+}
+
+.dark-mode .input-group-text {
+  background-color: #495057;
+  color: #f8f9fa;
+  border-color: #00070c;
+}
+
+.custom-nav-link {
+  font-size: 3.25rem;
+  font-weight: 500;
+  color: black !important;
+  transition: all 0.2s ease;
+}
+
+.custom-nav-link:hover {
+  text-decoration: underline;
+  color: black !important;
+}
+
