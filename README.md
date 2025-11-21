@@ -8,9 +8,8 @@ Live demo -https://afnew-1u37tcsys-nethmis-projects-4949cc7d.vercel.app     or  
 
 
 
-![home_page](rest-countries-app/image.png)
-![card_details](rest-countries-app/image-1.png)
-![favourites](rest-countries-app/image-2.png)
+<img width="1550" height="742" alt="image" src="https://github.com/user-attachments/assets/95221b56-ff6a-466b-bb73-3177ff2374a0" />
+
 
 
 
