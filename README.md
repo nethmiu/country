@@ -10,6 +10,7 @@ Live demo -https://afnew-1u37tcsys-nethmis-projects-4949cc7d.vercel.app     or  
 
 <img width="1550" height="742" alt="image" src="https://github.com/user-attachments/assets/95221b56-ff6a-466b-bb73-3177ff2374a0" />
 <img width="1547" height="723" alt="image" src="https://github.com/user-attachments/assets/a20e9e65-f413-4c1e-a6a0-6c4eb81d025e" />
+<img width="1550" height="739" alt="image" src="https://github.com/user-attachments/assets/a60efb26-d3ea-4b35-98a4-5c3f6f8762ff" />
 
 
 
